@@ -1,0 +1,11 @@
+[
+  {
+    "name": "add",
+    "description": "test add tools",
+    "parameters": {
+      "a": "int",
+      "b": "int"
+    },
+    "code": "def add(a: int, b: int) -> int:\r\n    return a + b"
+  }
+]
