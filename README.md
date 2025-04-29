@@ -1,7 +1,8 @@
 # MCP Hot Update Server Demo
 
 <p align="center">
-    <a href="./README_CN.md">中文文档</a>
+    <a href="./README_CN.md">中文文档</a> |
+    <a href="https://deepwiki.com/whitejoce/hot-update-MCP-Server">DeepWiki for this Repository</a>
 </p>
 
 This is a hot update server example based on the FastMCP framework, allowing dynamic loading and updating of utility functions without restarting the server.
